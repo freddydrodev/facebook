@@ -10,7 +10,7 @@ Meteor.startup(() => {
   ReactDOM.render(
     <MessengerCustomerChat
       pageId="825145917695252"
-      appId="2001848080066874"
+      appId="1592613690857264"
       htmlRef="ixi"
     />,
     document.getElementById("root")
